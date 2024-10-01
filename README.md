@@ -11,7 +11,7 @@ This is an assesment given by MetaCrafters under the ETH PROOF: Beginner EVM Cou
 ### Executing program
 
 * Open [Remix](https://remix.ethereum.org/).
-* Create a new file with an extension of .sol.
+* Create a new solidity file (.sol).
 * Copy and paste the code to the created file.
 ```
 // SPDX-License-Identifier: MIT

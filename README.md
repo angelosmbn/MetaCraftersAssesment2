@@ -47,7 +47,7 @@ contract MyToken {
   
 ## Help
 
-###Common Problems
+### Common Problems
 * MIT license not specified.
 ```
 // SPDX-License-Identifier: MIT
